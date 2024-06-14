@@ -1,0 +1,12 @@
+html {
+  --primary-color: red;
+}
+
+body {
+  background-color: #00ffff;
+}
+
+article {
+  background-color: rgb(49, 141, 52);
+  color: var(--primary-color);
+}
